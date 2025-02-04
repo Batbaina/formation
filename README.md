@@ -1,2 +1,2 @@
 # formation
-C'est projet github dans le cadre de la formation en programmation.
+C'est un projet github dans le cadre de la formation en programmation.
